@@ -19,6 +19,9 @@
 ---
 Dano Airlines, a British airline headquartered in London, United Kingdom, has recently received its latest passenger survey results, which indicate a significant drop in customer satisfaction, with the rate falling below 50% for the first time. The data comprises feedback from over 120,000 airline passengers, including additional details about their flights, travel types, and assessments of various factors such as cleanliness, comfort, service, and overall experience. The objective of this project is to propose a data-driven strategy aimed at enhancing Dano Airlines satisfaction rate.
 
+![Dano Airline picture dashboard](https://github.com/chieduife/Dano-Airline-Analysis/assets/148073427/754f7237-a02c-4e0f-8b79-c91ca114ab64)
+
+
 
 ## Data Soure
 ---
