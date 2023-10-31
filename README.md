@@ -108,10 +108,18 @@ In-Flight Entertainment: Modern flights often feature a variety of entertainment
 The flight provides a high-quality in-flight service, offering a variety of activities and amenities to make your journey enjoyable and engaging. Whether you prefer to relax with a movie, stay connected, indulge in delicious cuisine, or explore reading materials, the flight experience is designed to cater to diverse passenger preferences and enhance your overall travel experience.
 
 
+
+![Satisfaction by inflight service](https://github.com/chieduife/Dano-Airline-Analysis/assets/148073427/0eb98d89-d577-4765-8dd7-c875ca821ae6)
+
+
 - Satisfaction by Seat Comfort
 
   
 The seat comfort on this flight is exceptional and has consistently received high ratings from passengers. This level of comfort plays a crucial role in enhancing the overall flight experience, and it's not surprising that customers highly value a comfortable seat for several compelling reasons such as reduced stress, restful journey and also it helps the physical well- being of the customer, the high rating for seat comfort reflects the importance of this factor in passengers' travel experience. A comfortable seat not only contributes to passengers' physical well-being but also enhances their ability to rest, stay productive, and enjoy the journey. It plays a pivotal role in customer satisfaction, loyalty, and positive word-of-mouth, making it a key consideration for both airlines and passengers.          
+
+
+
+![Satisfaction  by seat comfort](https://github.com/chieduife/Dano-Airline-Analysis/assets/148073427/17bf26fb-0756-48d9-9df1-1c2a7a2a3fe9)
 
 
 - Satisfaction by On-board Service
@@ -119,10 +127,25 @@ The seat comfort on this flight is exceptional and has consistently received hig
   
  The on-board service provided by this airline is exceptional, consistently earning high ratings from passengers, the high rating for the on-board service reflects the integral role it plays in passengers' overall travel satisfaction. A quality on-board service contributes to comfort, convenience, and a positive experience, making passengers feel well taken care of and valued. This, in turn, fosters customer loyalty and positive recommendations, making it a vital component of an airline's success.
 
+
+
+
+ ![Satisfaction by on board service](https://github.com/chieduife/Dano-Airline-Analysis/assets/148073427/84529f70-34a8-42b2-a0bc-3e3bc1deead6)
+
+ 
+
+
 - Satisfaction by Online Boarding
 
   
  The online boarding process for this airline is highly regarded, consistently receiving top ratings from passengers. the high rating for online boarding reflects the fundamental role it plays in enhancing the overall travel experience for passengers. The convenience, time efficiency, reduced stress, and flexibility associated with this process make it a valuable service appreciated by travelers. A seamless online boarding experience not only contributes to customer satisfaction but also fosters loyalty and positive recommendations, making it an essential element of an airline's success.
+
+
+
+![Satisfaction by online booking ](https://github.com/chieduife/Dano-Airline-Analysis/assets/148073427/a3cde708-37cf-42de-8198-85fa95c84c41)
+
+
+ 
 
 ### Indicators demonstrating a high level of Dissatisfaction
 
@@ -153,6 +176,14 @@ Business Reputation: Frequent delays can harm a business's reputation. If busine
 Customer Retention: Businesses rely on the loyalty of their customers. For airlines catering to business travelers, frequent delays can lead to reduced customer retention and a loss of valuable clients.
 
 Considering the majority of our customers are business-oriented individuals, it is crucial to address the issue of arrival delays promptly and effectively. These delays not only disrupt the travel plans of business travelers but also have broader implications for their businesses and the airline itself. By improving punctuality and reducing delays, the airline can enhance the overall satisfaction of its customer base, especially those who rely on efficient travel to conduct their business activities.
+
+
+
+
+
+
+
+
 
 - Depature Delay by Satisfaction
 
