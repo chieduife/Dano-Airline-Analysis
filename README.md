@@ -6,7 +6,7 @@
 - [Tools](Tools)
 - [Project Structure](Project.Structure)
 - [Data Cleaning](Data.Cleaning)
-- [Explanatory Data Analysis(EDA)](Explanatory.Data.Analysis (EDA))
+- [Exploratory Data Analysis(EDA)](Exploratory.Data.Analysis (EDA))
 - [Data Insight](Data.Insight)
 - [Results/Findings](Reslts/Findings)
 - [Recommendation](Recommendation)
@@ -59,7 +59,7 @@ Upon the completion of the analysis, I understand the importance of clearly comm
 I imported the dataset into Power Query for data cleansing and transformation. During this process, I noticed that the 'arrival delay' column had a 1% rate of missing values. To address this, I filled in these missing values with a '0'. Additionally, I performed a thorough data validation and quality check on all rows and columns in the dataset to maintain its accuracy and integrity. After ensuring the dataset met the necessary quality standards, I closed the data transformation process and loaded it into Power BI for further analysis.
 
 
-## Explanatory Data Analysis [EDA]
+## Exploratory Data Analysis [EDA]
 Gaining a profound understanding of the dataset, I uncovered a significant drop in the satisfaction rate, precisely reaching the 50% mark. The initial satisfaction rate, which stood at 259.76k, dropped to 129.88k. This decline raised considerable concerns among Dano Airline's stakeholders.
 
 In terms of customer breakdown, we had 56.43k satisfied customers, whereas the number of customers expressing neutrality or dissatisfaction totaled 73.45k. This indicated a substantial proportion of our customers were dissatisfied.
