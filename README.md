@@ -182,6 +182,7 @@ Considering the majority of our customers are business-oriented individuals, it 
 
 
 
+![satisfaction by Arrival Delay ](https://github.com/chieduife/Dano-Airline-Analysis/assets/148073427/e83b0f9a-101a-4207-9e9d-8c0e827d3693)
 
 
 
@@ -190,10 +191,14 @@ Considering the majority of our customers are business-oriented individuals, it 
   
 The presence of departure delays is a concerning issue for this airline, as it has consistently received low ratings from passengers in this regard. These low ratings underscore the significance of the problem and its adverse impact on customer satisfaction. Given that a substantial portion of our customer base consists of business-oriented individuals, it is imperative to address the issue of departure delays effectively and promptly. These delays not only inconvenience business travelers but also have broader implications for their businesses and the airline itself.
 
+
+
+![Satisfaction by departure delay](https://github.com/chieduife/Dano-Airline-Analysis/assets/148073427/2a95aca1-e0cb-4404-b7b7-91c617375f4f)
+
+
 - Satisfaction by In-Flight Wifi Service
 
 The in-flight Wi-Fi service provided by this airline has been consistently rated poorly by passengers, indicating a significant issue that affects customer satisfaction. The reasons behind customers' dissatisfaction with the in-flight Wi-Fi service are diverse and have significant implications, especially considering that the majority of our customers are business-oriented individuals.
-
 
 Unreliable Connectivity: In-flight Wi-Fi often suffers from unreliable or slow connections, making it challenging for passengers, especially business travelers, to access crucial emails, documents, or conduct online tasks efficiently.
 
@@ -214,7 +219,7 @@ Financial Impact: Business travelers may be less inclined to choose the airline 
 Given that a significant portion of our customer base consists of business-oriented individuals, it is essential to address the issue of poor in-flight Wi-Fi effectively. Offering a reliable, high-speed, and cost-effective in-flight Wi-Fi service is vital to enhancing overall customer satisfaction and ensuring the continued loyalty of those who depend on efficient connectivity during their business travels.
 
 
-
+![Satisfaction by in-flight wifi service](https://github.com/chieduife/Dano-Airline-Analysis/assets/148073427/0d2634ef-0423-407d-ba20-ed836cc6aeb1)
 
 - Satisfaction by Online booking
 
@@ -228,6 +233,10 @@ Time-Consuming: Customers, especially business travelers, value efficiency. An i
 Loss of Productivity: For business-oriented passengers, any delay or hassle in the booking process can disrupt their work schedules, resulting in lost productivity.
 
 Missed Opportunities: If the online booking process is complicated, some customers may abandon their bookings or turn to competitors with simpler booking systems, causing potential revenue loss for the airline.
+
+
+
+![Satisfaction by Ease of online booking ](https://github.com/chieduife/Dano-Airline-Analysis/assets/148073427/64b56928-f938-465b-a04c-4ffd34161c7f)
 
 
 ### Findings
